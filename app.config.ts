@@ -32,7 +32,7 @@ const env = {
   appSlug: "toms-talented-tutoring-app",
   // S3 URL of the app logo - set this to the URL returned by generate_image when creating custom logo
   // Leave empty to use the default icon from assets/images/icon.png
-  logoUrl: "",
+  logoUrl: "https://d2xsxph8kpxj0f.cloudfront.net/310519663697519955/SE2QVVxKh9F3vqGJcs5Etd/icon-oP9c6yWMMBqHG8SQpo8z7t.png",
   scheme: schemeFromBundleId,
   iosBundleId: bundleId,
   androidPackage: bundleId,

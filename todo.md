@@ -116,3 +116,15 @@
 - [ ] Package all source code
 - [ ] Create GitHub deployment instructions
 - [ ] Generate final deliverables
+
+## Phase 15: Live Video Chat for Tutoring (NEW)
+- [x] Integrate Jitsi Meet SDK for video conferencing
+- [x] Create video chat screen component
+- [x] Build one-on-one tutoring session interface
+- [x] Build group tutoring session interface
+- [x] Add session scheduling and booking system
+- [x] Implement session recording (optional)
+- [ ] Add chat messaging during video sessions
+- [ ] Create session history and recordings library
+- [ ] Add tutor availability calendar
+- [ ] Implement session notifications and reminders

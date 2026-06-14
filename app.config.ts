@@ -83,6 +83,7 @@ const config: ExpoConfig = {
     bundler: "metro",
     output: "static",
     favicon: "./assets/images/favicon.png",
+    baseUrl: "/toms-talented-tutoring-app",
   },
   plugins: [
     "expo-router",
